@@ -1,0 +1,5 @@
+Model,Group,Dev_EER,Score_File,Delta_vs_DF_CL_DT
+DF_HNDL_EXT,Proposed extension,0.0,logs/DF/DF_HNDL_EXT/Scores/DEV/scores.txt,-38.691
+DF_BASE,Previous run,0.168,logs/DF/DEV_COMPARE/DF_BASE/Scores/DF/scores.txt,-38.523
+DF_CL,Previous run,37.716,logs/DF/DEV_COMPARE/DF_CL/Scores/DF/scores.txt,-0.975
+DF_CL_DT,Previous run,38.691,logs/DF/DEV_COMPARE/DF_CL_DT/Scores/DF/scores.txt,0.0

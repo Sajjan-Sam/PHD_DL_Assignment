@@ -1,0 +1,4 @@
+Model,Backbone,Epochs,Train Subset,Dev Subset,Eval Subset,Paper Target EER,Notes
+DF_BASE,XLSR_Conformer,20,0.05,0.05,0.01,2.45,Official DF EER skipped: missing datasets/keys/DF
+DF_CL,XLSR_Conformer_CL,20,0.05,0.05,0.01,2.08,Official DF EER skipped: missing datasets/keys/DF
+DF_CL_DT,XLSR_Conformer_CL_DT,20,0.05,0.05,0.01,1.88,Official DF EER skipped: missing datasets/keys/DF
